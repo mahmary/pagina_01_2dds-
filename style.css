@@ -29,11 +29,11 @@
     align-items: center;
     }
     .titulo_site{
-    color: black;
     padding: 50px;
     text-align: center;
     width: 50%;
     font: 30px;
+    color: black;
     }
     .sociais{
     display: flex;
